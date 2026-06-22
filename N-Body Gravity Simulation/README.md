@@ -70,8 +70,9 @@ Uniform random initial conditions naturally evolve into dense gravitational clus
 
 ## Stable Virialized State
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49b0c345-22a6-453c-ba83-23f22e2003c1" />
 
+(Drift is due to errors accumulating due to Euler integration which does not conserve energy)
 ---
 
 # Technologies Used
